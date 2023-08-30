@@ -10,7 +10,7 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "drupal/views": "^9",
-        "drupal/group": "^2"
+        "drupal/views": "^9.5",
+        "drupal/group": "^2.0"
     }
 }
