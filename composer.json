@@ -1,0 +1,16 @@
+{
+    "name": "aquarius/last_saison_helper",
+    "description": "Retourne l'ID de la saison la plus récente dans un champs View",
+    "type": "drupal-custom-module",
+    "authors": [
+        {
+            "name": "Cyril Béguet",
+            "email": "webmaster.beguet@free.fr"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "drupal/views": "^9",
+        "drupal/group": "^2"
+    }
+}
