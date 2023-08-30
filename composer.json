@@ -10,6 +10,6 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "drupal/group": "^8.x-1.x"
+        "drupal/group": "^1.5"
     }
 }
