@@ -1,9 +1,9 @@
 name: 'last_saison_helper'
 type: module
 description: 'fourni un champ contenant la dernière saison en date (basé sur le champ : date de début).'
-core_version_requirement: ^9.5
+core_version_requirement: ^9.5 || ^10
 package: 'Aquarius'
-version: '1.0.1'
+version: '1.0.3'
 dependencies:
   - group
   - views
