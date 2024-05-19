@@ -3,7 +3,7 @@ type: module
 description: 'fourni un champ contenant la dernière saison en date (basé sur le champ : date de début).'
 core_version_requirement: ^9.5 || ^10
 package: 'Aquarius'
-version: '1.0.3'
+version: '1.0.4'
 dependencies:
   - group: ^2. || ^3.
   - views: ^9.5 || ^10
