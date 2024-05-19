@@ -5,5 +5,5 @@ core_version_requirement: ^9.5 || ^10
 package: 'Aquarius'
 version: '1.0.5'
 dependencies:
-  - group: ^2. || ^3.
-  - views: ^9.5 || ^10
+  - group
+  - views
